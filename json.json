@@ -6,14 +6,15 @@
 		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"dimensions": "1080x2220",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "sam",
+	      "downloadable": false
 	},
       {
 		"name": "Two",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/2.jpg",
 		"dimensions": "1080x2220",
-		"collections": "orbic",
+		"collections": "sam",
 		"downloadable": false
 	},
 	{
@@ -21,7 +22,7 @@
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/3.jpg",
 		"dimensions": "1080x2220",
-		"collections": "orbic",
+		"collections": "sam",
 		"downloadable": false
 	},
 	{
@@ -29,7 +30,7 @@
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/4.jpg",
 		"dimensions": "1080x2220",
-		"collections": "orbic",
+		"collections": "sam",
 		"downloadable": false
 	},
 	{
@@ -39,6 +40,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"dimensions": "1080x2220",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "sam",
+		"downloadable": false
 	}
 ]
