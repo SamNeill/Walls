@@ -2,9 +2,9 @@
       {
 		"name": "Webp Image",
 		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
+		"dimensions": "1080x2220",
 		"copyright": "Unknown",
 		"collections": "landscapes"
 	},
@@ -25,9 +25,9 @@
 	{
 		"name": "Webp Image",
 		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
+		"dimensions": "1080x2220",
 		"copyright": "Unknown",
 		"collections": "landscapes"
 	}
