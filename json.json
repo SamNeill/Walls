@@ -11,13 +11,13 @@
       {
 		"name": "two",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/2.jpg",
 		"collections": "orbic"
 	},
 	{
 		"name": "three",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/3.jpg",
 		"dimensions": "3200x2560",
 		"collections": "orbic",
 		"downloadable": false
