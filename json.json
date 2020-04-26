@@ -7,14 +7,12 @@
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "orbic"
-	      	"downloadable": false
 	},
       {
 		"name": "two",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
 		"collections": "orbic"
-	      	"downloadable": false
 	},
 	{
 		"name": "three",
@@ -32,6 +30,5 @@
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "orbic"
-		"downloadable": false
 	}
 ]
