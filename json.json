@@ -1,6 +1,6 @@
 [
       {
-		"name": "One",
+		"name": "1",
 		"author": "unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
@@ -10,7 +10,7 @@
 	      "downloadable": false
 	},
       {
-		"name": "Two",
+		"name": "2",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/2.jpg",
 		"dimensions": "1080x2220",
@@ -18,7 +18,7 @@
 		"downloadable": false
 	},
 	{
-		"name": "Three",
+		"name": "3",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/3.jpg",
 		"dimensions": "1080x2220",
@@ -26,7 +26,7 @@
 		"downloadable": false
 	},
 	{
-		"name": "Four",
+		"name": "4",
 		"author": "Unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/4.jpg",
 		"dimensions": "1080x2220",
@@ -34,7 +34,7 @@
 		"downloadable": false
 	},
 	{
-		"name": "One",
+		"name": "1",
 		"author": "unknown",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
