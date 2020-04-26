@@ -18,7 +18,15 @@
 		"name": "three",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/3.jpg",
-		"dimensions": "3200x2560",
+		"dimensions": "1080x2220",
+		"collections": "orbic",
+		"downloadable": false
+	},
+	{
+		"name": "four",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/4.jpg",
+		"dimensions": "1080x2220",
 		"collections": "orbic",
 		"downloadable": false
 	},
