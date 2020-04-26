@@ -1,34 +1,37 @@
 [
       {
-		"name": "Webp Image",
+		"name": "one",
 		"author": "unknown",
 		"url": "https://www.gstatic.com/webp/gallery/4.webp",
 		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "orbic"
+	      	"downloadable": false
 	},
       {
-		"name": "ShotA",
+		"name": "two",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
+		"collections": "orbic"
+	      	"downloadable": false
 	},
 	{
-		"name": "ShotB",
+		"name": "three",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
 		"dimensions": "3200x2560",
-		"collections": "people,city",
+		"collections": "orbic",
 		"downloadable": false
 	},
 	{
-		"name": "Webp Image",
+		"name": "one",
 		"author": "unknown",
 		"url": "https://www.gstatic.com/webp/gallery/4.webp",
 		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "orbic"
+		"downloadable": false
 	}
 ]
