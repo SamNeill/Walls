@@ -190,7 +190,41 @@
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
+      {
 
+		"name": "31",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/31.jpg", 
+		"dimensions": "1080x2220", 
+		"collections": "sam" 
+	},        
+      {
+
+		"name": "32",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/32.jpg", 
+		"dimensions": "1080x2220", 
+		"collections": "sam" 
+	},        
+      {
+
+		"name": "33",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/33.jpg", 
+		"dimensions": "1080x2220", 
+		"collections": "sam" 
+	},        
+      {
+
+		"name": "34",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/34.jpg", 
+		"dimensions": "1080x2220", 
+		"collections": "sam" 
+	},        
+      {
+
+		"name": "35",
+		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/35.jpg", 
+		"dimensions": "1080x2220", 
+		"collections": "sam" 
+	},
 	
 	
 	
