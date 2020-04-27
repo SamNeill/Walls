@@ -1,6 +1,7 @@
 [
       {
 		"name": "1",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"dimensions": "1080x2220",
@@ -18,174 +19,203 @@
 	
       {
 		"name": "2",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/2.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "3",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/3.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "4",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/4.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "5",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/5.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "6",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/6.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "7",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/7.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "8",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/8.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "9",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/9.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "10",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/10.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "11",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/11.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "12",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/12.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "13",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/13.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "14",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/14.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "15",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/15.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "16",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/16.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "17",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/17.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "18",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/18.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "19",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/19.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "20",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/20.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "21",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/21.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "22",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/22.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "23",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/23.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "24",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/24.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "25",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/25.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "26",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/26.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "27",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/27.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "28",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/28.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	      {
 		"name": "29",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/29.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
 	},
 	{
 		"name": "30",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/30.jpg",
 		"dimensions": "1080x2220",
 		"collections": "sam"
@@ -193,6 +223,7 @@
       {
 
 		"name": "31",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/31.jpg", 
 		"dimensions": "1080x2220", 
 		"collections": "sam" 
@@ -200,6 +231,7 @@
       {
 
 		"name": "32",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/32.jpg", 
 		"dimensions": "1080x2220", 
 		"collections": "sam" 
@@ -207,6 +239,7 @@
       {
 
 		"name": "33",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/33.jpg", 
 		"dimensions": "1080x2220", 
 		"collections": "sam" 
@@ -214,6 +247,7 @@
       {
 
 		"name": "34",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/34.jpg", 
 		"dimensions": "1080x2220", 
 		"collections": "sam" 
@@ -221,6 +255,7 @@
       {
 
 		"name": "35",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/35.jpg", 
 		"dimensions": "1080x2220", 
 		"collections": "sam" 
@@ -243,6 +278,7 @@
 	
 	{
 		"name": "1",
+		"author": "someone",
 		"url": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SamNeill/Walls/master/1.jpg",
 		"dimensions": "1080x2220",
